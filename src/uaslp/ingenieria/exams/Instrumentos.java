@@ -1,6 +1,6 @@
 package uaslp.ingenieria.exams;
 
-public class Instrumento {
+public class Instrumentos {
 
     public String getName()
     {
